@@ -1,0 +1,9 @@
+Windel M. Narito
+BSChE 2A 
+Chem13 - Organic Chemistry (Lecture)
+ASYNCHRONOUS ACTIVITY NO. 2
+
+AI Use Disclosure
+
+AI Tool Used: Google Gemini
+I used Google Gemini primarily as a learning support tool to verify the chemical accuracy of the more complex, challenge-level molecules in this activity. Specifically, I asked the AI to double-check my placement of lone pairs, formal valences, and fused-ring connectivity to ensure no atoms or bonds were missing.   Additionally, I consulted the AI to ensure my exported Ketcher bond-line formulas strictly followed skeletal conventions. I also had it review my Lewis structures to confirm they met the assignment's requirement for a clean, professional, and completely non-handwritten visual format.   I independently constructed all chemical representations and did not use AI to generate the final images. I manually verified the atom count, valence, bond order, and connectivity for every molecule submitted in my digital portfolio, ensuring everything matched the provided formulas.   
