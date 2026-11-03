@@ -1,0 +1,17 @@
+Windel M. Narito
+CHEM 13 – Asynchronous Activity No. 3: Name It, Draw It
+AI USE DISCLOSURE
+
+A. AI Assistant Consulted: Claude (Anthropic)
+How the Assistant Was Used:
+Claude was consulted to explain IUPAC naming rules and conventions in simpler terms, to clarify how the longest carbon chain is selected and how substituents are identified and numbered, and to refine the wording of explanations and card text.
+
+B. Checking Tool Employed: The Alkane
+How the Checking Tool Was Used:
+The Alkane was used to return IUPAC names for structures drawn in the tool, to verify the systematic names of branched, cyclic and halogenated alkanes, and to compare the returned names against the given and self-written names. It also helped pinpoint naming differences and possible errors.
+
+C. Source Citation for the Checking Tool:
+The Alkane. (n.d.). The Alkane: IUPAC name generator [Web application]. Retrieved November 1, 2026, from https://thealkane.com/
+
+D. Closing Statement:
+The AI assistant served only as supplementary support for learning and writing. All structures, returned names and final answers were reviewed and verified before submission.
