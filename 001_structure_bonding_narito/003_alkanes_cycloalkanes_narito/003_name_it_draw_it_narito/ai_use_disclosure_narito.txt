@@ -1,0 +1,6 @@
+Windel M. Narito
+CHEM 13 – Asynchronous Activity No. 3: Name It, Draw It
+AI USE DISCLOSURE
+
+Tools used: The Alkane (https://thealkane.com/) was used as the required checking tool for Part A (structure → name) and Part B (name → structure), including the cropped screenshots saved in thealkane_checks/. No other naming or drawing tool was used, such as ChemDraw, ChemSketch, MarvinSketch or PubChem. 
+AI used: Claude (Anthropic) was used to check Part A answers and to explain the IUPAC naming rules involved. It was also used to explain how to decode each Part B name and predict its molecular formula, and to improve the wording of the Part B card panels (Name Decoded, Formula Check and Back-Check). In addition, it was used to explain why B10 (2-ethylbutane) breaks the longest-chain rule and why its correct name is 3-methylpentane, and why tert-butyl and (1,1-dimethylethyl) are equivalent names for the same group in B08. No other AI tool was used.
